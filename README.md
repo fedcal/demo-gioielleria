@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Gioielleria** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://gioielleria.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-gioielleria/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-gioielleria/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-gioielleria.git
-cd federico-demo-gioielleria
+git clone https://github.com/fedcal/demo-gioielleria.git
+cd demo-gioielleria
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:gioielleria
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-gioielleria/
+→ https://fedcal.github.io/demo-gioielleria/
 
 ## Hub demos Federico
 
