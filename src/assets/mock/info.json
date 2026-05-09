@@ -1,0 +1,48 @@
+{
+  "ragioneSociale": "Gioielleria Verdi S.n.c.",
+  "nomeCommerciale": "Gioielleria Verdi",
+  "tagline": "Gioielli artigianali Firenze dal 1923",
+  "fondazioneAnno": 1923,
+  "indirizzo": {
+    "via": "Ponte Vecchio 14",
+    "citta": "Firenze",
+    "provincia": "FI",
+    "cap": "50125",
+    "regione": "Toscana",
+    "paese": "Italia",
+    "lat": 43.7680,
+    "lng": 11.2531
+  },
+  "contatti": {
+    "telefono": "+39 055 234 5678",
+    "whatsapp": "+39 335 1234 567",
+    "email": "info@gioielleria-verdi.it",
+    "social": {
+      "instagram": "https://instagram.com/gioielleriaverdi_demo",
+      "facebook": "https://facebook.com/gioielleriaverdi_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "10:00 – 13:00 / 15:00 – 19:30",
+    "martedi": "10:00 – 13:00 / 15:00 – 19:30",
+    "mercoledi": "10:00 – 13:00 / 15:00 – 19:30",
+    "giovedi": "10:00 – 13:00 / 15:00 – 19:30",
+    "venerdi": "10:00 – 13:00 / 15:00 – 19:30",
+    "sabato": "10:00 – 19:30",
+    "domenica": "11:00 – 18:00"
+  },
+  "servizi": {
+    "ordiniPersonalizzati": true,
+    "riparazioni": true,
+    "finanziamento": true,
+    "spedizioneNazionale": true,
+    "confezioneRegalo": true,
+    "certificazioneGia": true,
+    "garantizia2anni": true
+  },
+  "metaSeo": {
+    "title": "Gioielleria Verdi — Gioielli artigianali Firenze Ponte Vecchio dal 1923",
+    "description": "Gioielleria storica sul Ponte Vecchio di Firenze. Anelli, collane, bracciali, orecchini e orologi artigianali dal 1923. Ordini su misura e certificazioni GIA.",
+    "keywords": ["gioielleria firenze", "gioielli artigianali", "ponte vecchio gioielleria", "anelli oro firenze", "gioielli su misura toscana"]
+  }
+}

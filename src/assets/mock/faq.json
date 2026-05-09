@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "domanda": "I vostri gioielli hanno certificazioni GIA?",
+      "risposta": "I diamanti e le pietre preziose di valore superiore a €500 vengono venduti con certificato GIA (Gemological Institute of America) o IGI. Il certificato garantisce le 4C: taglio, colore, purezza e carati. Per i pezzi senza certificato rilasciamo sempre la nostra perizia interna con garanzia scritta."
+    },
+    {
+      "domanda": "Quali garanzie offrite sui gioielli acquistati?",
+      "risposta": "Tutti i gioielli acquistati sono coperti da garanzia Verdi 2 anni contro difetti di manifattura. La garanzia copre riparazioni di incastonature, sostituzione fermagli difettosi e ripristino di rifiniture. Esclusi danni da urto, perdita di pietre per uso improprio e normale usura."
+    },
+    {
+      "domanda": "Eseguite riparazioni e ridimensionamenti?",
+      "risposta": "Sì, il nostro laboratorio interno esegue tutte le principali lavorazioni di riparazione: ridimensionamento anelli (+2/-2 misure), saldatura catene, sostituzione chiusure, lucidatura, rodiatura argento e ripristino finiture. I tempi medi vanno da 3 a 15 giorni lavorativi in base alla complessità del lavoro."
+    },
+    {
+      "domanda": "È possibile ordinare gioielli su misura?",
+      "risposta": "Assolutamente sì. Il servizio 'Custom Verdi' consente di realizzare un gioiello unico partendo da un'idea, un disegno o una foto. Il percorso include: consulenza gratuita, bozzetto digitale, approvazione del preventivo e realizzazione in 4-8 settimane. Ogni pezzo viene firmato e numerato."
+    },
+    {
+      "domanda": "Offrite finanziamento o pagamento rateale?",
+      "risposta": "Per acquisti superiori a €500 offriamo finanziamento a tasso zero fino a 12 rate mensili tramite Cofidis, con approvazione in negozio in circa 15 minuti. Disponibile anche pagamento in 3 rate senza interessi tramite Scalapay o Klarna per acquisti online."
+    }
+  ]
+}

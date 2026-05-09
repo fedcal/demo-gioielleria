@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Alberto Verdi",
+      "ruolo": "Maestro Orafo & Fondatore",
+      "bio": "Quarta generazione della famiglia Verdi, Alberto ha ereditato dal nonno Armando l'arte orafa fiorentina. Formato alla scuola dell'Istituto d'Arte di Firenze, cura personalmente ogni pezzo della collezione storica.",
+      "anniEsperienza": 38,
+      "specialita": ["Incastonatura a griffe", "Filigrana fiorentina", "Lavorazione a granulazione"],
+      "emoji": "👨‍🔧"
+    },
+    {
+      "id": 2,
+      "nome": "Serena Conti",
+      "ruolo": "Orafa e Designer",
+      "bio": "Diplomata all'Accademia Orafa di Firenze e specializzata in gioielleria contemporanea a Milano. Porta nella Verdi un linguaggio visivo moderno senza tradire la tradizione artigianale.",
+      "anniEsperienza": 14,
+      "specialita": ["Design contemporaneo", "Modellazione CAD", "Stampa 3D per prototipi"],
+      "emoji": "👩‍🎨"
+    },
+    {
+      "id": 3,
+      "nome": "Marco Ferretti",
+      "ruolo": "Gemmologist GIA",
+      "bio": "Certificato Graduate Gemologist dal GIA di Carlsbad (California). Seleziona personalmente diamanti e pietre preziose nelle principali fiere internazionali: Basilea, Hong Kong, Las Vegas.",
+      "anniEsperienza": 22,
+      "specialita": ["Gemmologia GIA", "Valutazione diamanti 4C", "Selezione pietre colorate"],
+      "emoji": "💎"
+    },
+    {
+      "id": 4,
+      "nome": "Elena Moretti",
+      "ruolo": "Consulente Gioielli & Vendite",
+      "bio": "La voce accogliente di Gioielleria Verdi da 12 anni. Guida i clienti nella scelta del pezzo più adatto per ogni occasione, dai regali di fidanzamento alle collezioni da investimento.",
+      "anniEsperienza": 12,
+      "specialita": ["Consulenza personalizzata", "Gestione ordini custom", "Valutazioni e perizie"],
+      "emoji": "👩‍💼"
+    }
+  ]
+}
